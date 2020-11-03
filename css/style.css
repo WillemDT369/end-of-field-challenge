@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#mockup {
+    width: 415px;
+    height: 351px;
+    background-image: url(/images/interface.11.png);
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    opacity: 0.5;
+    z-index: 10;
+    pointer-events: none;
+  }
+
+  .container{
+
+  }
+
+  .top{
+
+  }
+
+  .middle{
+
+  }
+
+  h1{
+
+  }
+
+  p.middle{
+
+  }
+
+  .bottom{
+      
+  }
