@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-#mockup {
+/* #mockup {
     width: 298px;
     height: 361px;
     background-image: url(/images/complex_interface.01.png);
@@ -16,7 +16,7 @@
     opacity: 0.5;
     z-index: 10;
     pointer-events: none;
-  }
+  } */
 .box{
   width: 298px;
   height: 356px;
