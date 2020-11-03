@@ -32,7 +32,7 @@
   }
 
   .middle{
-    padding-right: 45px;
+    margin-right: 45px;
   }
 
   h1{
@@ -48,9 +48,17 @@
   .middle p{
     padding-top: 20px;
     line-height: 24px;
+    padding-bottom: 34px;
   }
 
   .bottom{
-    padding-top: 55px;
+    margin-right: 29px;
+    padding-top: 20px;
+    padding-bottom: 18px;
+    padding-right: 14px;
+    padding-left: 10px;
+    text-align: center;
+    background-color: grey;
+    
     
   }
