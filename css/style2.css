@@ -37,11 +37,15 @@ nav{
 img.home{
   height: auto;
   width: 9px;
+  margin-left: 18px;
+  margin-top: 6px;
+  
 }
 
 img.menu{
   height: auto;
   width: 6px;
+  margin-right: 18px;
 }
 
 h1{
