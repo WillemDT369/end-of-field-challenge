@@ -35,12 +35,13 @@ nav{
 }
 
 img.home{
-
+  height: auto;
+  width: 9px;
 }
 
 img.menu{
-  height: 45px;
-  width: 45px;
+  height: auto;
+  width: 6px;
 }
 
 h1{
@@ -70,7 +71,8 @@ td.date{
 }
 
 img.avatar{
-
+  width: 28px;
+  height: auto;
 }
 
 .buttons{
