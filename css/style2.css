@@ -26,6 +26,11 @@
 
 .top{
   padding-bottom: 99px;
+  background-image: url("/images/blackmeal_dude.png");
+  background-size: 170px auto;
+  background-repeat: no-repeat;
+  background-position: 60px 15px; 
+  background-color:rgb(32, 32, 32);
 }
 
 nav{
@@ -58,6 +63,7 @@ h1{
   font-size: 28px;
   padding-top: 40px;
   line-height: 18px;
+  color:white;
 }
 
 h2{
@@ -86,6 +92,8 @@ table{
 .bottom{
   display: flex;
   font-family: 'PT Sans', sans-serif;
+  padding-top: 7px;
+  margin-bottom: 30px;
 
 }
 
@@ -93,6 +101,7 @@ img.avatar{
   width: 28px;
   height: auto;
   margin-left: 20px;
+  
 }
 
 .buttons{
@@ -111,13 +120,21 @@ p.user{
 .btn1{
   text-decoration: none;
   margin-right: 13px;
+  border: 1px solid;
+  border-radius: 10px;
+  padding: px 20px;
 }
 
 .btn2{
   text-decoration: none;
   margin-right: 13px;
+  border: 1px solid;
+  border-radius: 10px;
+
 }
 
 .btn3{
   text-decoration: none;
+  border: 1px solid;
+  border-radius: 10px;
 }
