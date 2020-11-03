@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-#mockup {
+/* #mockup {
     width: 415px;
     height: 351px;
     background-image: url(/images/interface.11.png);
@@ -16,7 +16,7 @@
     opacity: 0.5;
     z-index: 10;
     pointer-events: none;
-  }
+  } */
 
   .container{
     width: 415px;
@@ -42,6 +42,7 @@
     line-height: 48px;
     padding-top: 18px;
     padding-left: 2px;
+    word-spacing: 3px;
     
   }
 
@@ -58,7 +59,7 @@
     padding-right: 14px;
     padding-left: 10px;
     text-align: center;
-    background-color: grey;
-    
-    
+    font-size: 15px;
+    color: white;
+    background-color: black;  
   }
