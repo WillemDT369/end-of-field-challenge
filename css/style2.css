@@ -25,7 +25,7 @@
 }
 
 .top{
-    
+  padding-bottom: 99px;
 }
 
 nav{
@@ -73,7 +73,13 @@ h5{
   line-height: 22px;
 }
 
-td.date{
+table{
+  padding-bottom: 43px;
+}
+.first-row{
+  
+}
+.date{
   text-align: right;
 }
 
@@ -86,22 +92,30 @@ td.date{
 img.avatar{
   width: 28px;
   height: auto;
+  margin-left: 20px;
 }
 
 .buttons{
   font-size: 12px;
+  display: flex;
+  justify-content: space-between;
 }
 
 p.user{
-  font-size: 14px;
+  font-size: 12px;
+  margin-left: 7px;
+  margin-right: 13px;
+  
 }
 
 .btn1{
   text-decoration: none;
+  margin-right: 13px;
 }
 
 .btn2{
   text-decoration: none;
+  margin-right: 13px;
 }
 
 .btn3{
