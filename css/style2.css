@@ -17,7 +17,12 @@
     z-index: 10;
     pointer-events: none;
   }
-
+.box{
+  width: 298px;
+  height: 356px;
+  background-color:rgb(243, 246, 245);
+  
+}
 .container{
     margin: 4px;
     width: 290px;
@@ -25,7 +30,7 @@
 }
 
 .top{
-  padding-bottom: 99px;
+  padding-bottom: 80px;
   background-image: url("/images/blackmeal_dude.png");
   background-size: 170px auto;
   background-repeat: no-repeat;
@@ -55,6 +60,7 @@ img.menu{
 .middle{
   font-family: 'PT Sans', sans-serif;
   font-size: 14px;
+  background-color: #fff;
 }
 
 h1{
@@ -80,6 +86,7 @@ h5{
 }
 
 table{
+  padding-top: 20px;
   padding-bottom: 43px;
 }
 .first-row{
@@ -94,6 +101,7 @@ table{
   font-family: 'PT Sans', sans-serif;
   padding-top: 7px;
   margin-bottom: 30px;
+  background-color: #fff;
 
 }
 
