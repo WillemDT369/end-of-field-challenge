@@ -44,19 +44,19 @@ img.menu{
 }
 
 h1{
-
+  font-family: 'Noto Sans', sans-serif;
 }
 
 h2{
-
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 
 h5{
-
+  font-family: 'Noto Sans', sans-serif;
 }
 
 .middle{
-
+  font-family: 'PT Sans', sans-serif;
 }
 
 td.date{
@@ -65,6 +65,7 @@ td.date{
 
 .bottom{
   display: flex;
+  font-family: 'PT Sans', sans-serif;
 
 }
 
