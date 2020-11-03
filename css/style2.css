@@ -38,8 +38,7 @@ img.home{
   height: auto;
   width: 9px;
   margin-left: 18px;
-  margin-top: 6px;
-  
+  margin-top: 6px;  
 }
 
 img.menu{
@@ -48,24 +47,34 @@ img.menu{
   margin-right: 18px;
 }
 
+.middle{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 14px;
+}
+
 h1{
   font-family: 'Noto Sans', sans-serif;
+  text-align: center;
+  font-size: 28px;
+  padding-top: 40px;
+  line-height: 18px;
 }
 
 h2{
   font-family: 'IBM Plex Sans', sans-serif;
+  text-align: center;
+  font-size: 21px;
 }
 
 h5{
   font-family: 'Noto Sans', sans-serif;
-}
-
-.middle{
-  font-family: 'PT Sans', sans-serif;
+  text-align: center;
+  font-size: 40px;
+  line-height: 22px;
 }
 
 td.date{
-
+  text-align: right;
 }
 
 .bottom{
@@ -80,7 +89,11 @@ img.avatar{
 }
 
 .buttons{
+  font-size: 12px;
+}
 
+p.user{
+  font-size: 14px;
 }
 
 .btn1{
