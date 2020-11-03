@@ -19,10 +19,12 @@
   }
 
   .container{
-
+    width: 415px;
+    height: 351px;
   }
 
   .top{
+      
 
   }
 
@@ -39,5 +41,5 @@
   }
 
   .bottom{
-      
+
   }
