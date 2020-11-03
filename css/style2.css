@@ -19,14 +19,18 @@
   }
 
 .container{
-
+    margin: 4px;
+    width: 290px;
+    height: 356px;
 }
 
 .top{
-
+    
 }
 
 nav{
+  display: flex;
+  justify-content: space-between;
 
 }
 
@@ -35,7 +39,8 @@ img.home{
 }
 
 img.menu{
-
+  height: 45px;
+  width: 45px;
 }
 
 h1{
@@ -59,6 +64,7 @@ td.date{
 }
 
 .bottom{
+  display: flex;
 
 }
 
@@ -71,13 +77,13 @@ img.avatar{
 }
 
 .btn1{
-
+  text-decoration: none;
 }
 
 .btn2{
-
+  text-decoration: none;
 }
 
 .btn3{
-    
+  text-decoration: none;
 }
